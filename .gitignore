@@ -18,3 +18,8 @@ __pycache__/
 # Environments and configs
 *.env
 .env.*
+
+news.csv
+PoetryFoundationData.csv
+catboost_info/
+*thoughts.docx
